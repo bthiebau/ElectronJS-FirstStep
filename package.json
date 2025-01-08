@@ -1,0 +1,21 @@
+{
+    "name": "atelier-electron",
+    "version": "0.0.1-beta",
+    "description": "Premier pas sur ElectronJS",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+        "build": "electron-builder"
+    },
+    "author": "bthiebau",
+    "license": "ISC",
+    "devDependencies": {
+        "electron": "^29.2.0",
+        "electron-builder": "^22.14.13"
+    },
+    "dependencies": {
+
+    }
+
+
+}
